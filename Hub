@@ -1,4 +1,4 @@
 loadstring(game:HttpGet('https://darkscripts.space/scripts/ee443dce-5c93-4f67-9d4e-6ddd93d654bd_1192854516018716773.lua',true))()                              
 loadstring(game:HttpGet("https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring"))()
-loadstring(game:HttpGet("https://egorikusa.space/ef8170c18c77bd67f26e4df3.lua", true))()
+loadstring(game:HttpGet("https://egorikusa.space/86a531670e09f0d27a0d2444.lua", true))()
 -- Maded by Coler
